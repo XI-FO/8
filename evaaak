@@ -1,0 +1,20 @@
+<<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <center>
+    <h1>Actor</h1>
+  </center>
+  <a href="" class="action-btn">Louis Patridge</a>
+  
+  <img width="300px" src="LouisPatridge.jpg" alt="">
+  <h3>Biografi</h3>
+  <p>Louis Patrick James Partridge adalah aktor film dan televisi asal Inggris. Ia terkenal karena perannya sebagai Tewkesbury dalam film asli Netflix Enola Holmes, dan Enola Holmes 2, bersama Millie Bobby Brown. Louis juga bermain Film dalam dan Sid Vicious dalam miniseri FX dan Star Pistol.</p>
+  <h3>Eva Khiyarotun Nisa' | SMK N 1 BLADO</h3>
+</body>
+</html>
